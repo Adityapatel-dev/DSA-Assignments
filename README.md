@@ -49,9 +49,9 @@ git clone <YOUR-GITHUB-REPOSITORY-URL>
 ```
 
 **4. Open the project**
-
+```bash
 Open the cloned repository folder in Visual Studio Code.
-
+```
 ## ▶️ Compile and Run
 
 Open the terminal inside the required assignment folder.
