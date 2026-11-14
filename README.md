@@ -32,40 +32,16 @@ This repository contains C++ implementations of common data structures, graph tr
 | 12 | Shop Product Price Sorting Using Selection Sort | Selection Sort |
 | 13 | Student Names Sorting Using Insertion Sort | Insertion Sort, string comparison |
 
-## 📂 Repository Structure
-
-```text
-DSA-Assignments/
-│
-├── Assignment-01/
-├── Assignment-02/
-├── Assignment-03/
-├── Assignment-04/
-├── Assignment-05/
-├── Assignment-06/
-├── Assignment-07/
-├── Assignment-08/
-├── Assignment-09/
-├── Assignment-10/
-├── Assignment-11/
-├── Assignment-12/
-├── Assignment-13/
-│
-└── README.md
-```
-
-Each assignment folder contains its respective C++ source code.
-
 ## ⚙️ Setup and Installation
 
 **1. Install a C++ compiler**
-
+```bash
 Install GCC/G++ and configure it in your system PATH.
-
+```
 **2. Install Visual Studio Code**
-
+```bash
 Install VS Code and the C/C++ extension.
-
+```
 **3. Clone the repository**
 
 ```bash
